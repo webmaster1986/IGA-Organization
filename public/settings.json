@@ -1,0 +1,29 @@
+{
+  "settings": {
+    "signalRUrl": "https://dsapi.dietechsoftware.com/1/NotificationHubSupportUI",
+    "signalRMethod": "SupportUIItemAddedOrUpdatedNotify",
+    "apiEndPoint": "https://dsapi.dietechsoftware.com/1/api",
+    "reportsApiEndPoint": "https://dsapi.dietechsoftware.com/1/reports/api",
+    "labelSettings": {
+      "logoText": "PSI Support",
+      "copyRightText": "PSI Support © 2020."
+    },
+    "showHiddenFeatures": true
+  },
+  "updatedAt": "2020-02-13 05:16 PM",
+  "gridData": [
+    {"name": "Roberta", "SessionID": "444594696", "notes": "notes", "SessionState": "none", "Company": "Company", "ProgramName": "ProgramName", "Duration": "10", "id": 0},
+    {"name": "Test User", "SessionID": "444594697", "notes": "notes", "SessionState": "none", "Company": "Company", "ProgramName": "ProgramName", "Duration": "10", "id": 1},
+    {"name": "Max", "SessionID": "444594698", "notes": "notes", "SessionState": "none", "Company": "Company", "ProgramName": "ProgramName", "Duration": "10", "id": 2},
+    {"name": "Tailor", "SessionID": "444594699", "notes": "notes", "SessionState": "none", "Company": "Company", "ProgramName": "ProgramName", "Duration": "10", "id": 3},
+    {"name": "Smith", "SessionID": "444594700", "notes": "notes", "SessionState": "none", "Company": "Company", "ProgramName": "ProgramName", "Duration": "10", "id": 4}
+  ],
+  "peoples": [
+    {"firstName": "Farhad", "lastName": "David", "email": "test@gmail.com", "Auth0ID": "auth0|5b33dfb013d4764c7c595aef"},
+    {"firstName": "Naman", "lastName": "Kamli", "email": "naman@gmail.com", "Auth0ID": "auth0|5b33dfb013d4764c7c595aeg"},
+    {"firstName": "Sagar", "lastName": "Dhavan", "email": "sagar@gmail.com", "Auth0ID": "auth0|5b33dfb013d4764c7c595aeh"},
+    {"firstName": "Kamal", "lastName": "Patel", "email": "kamal@gmail.com", "Auth0ID": "auth0|5cbe66dbe7aa311146c76b26"},
+    {"firstName": "Jeff", "lastName": "Donhauser", "email": "jeffd@psibuffalo.com", "Auth0ID": "auth0|5e3ad09e1c76bf0f5e9849a3"},
+    {"firstName": "Mike", "lastName": "P", "email": "mikep@psibuffalo.com", "Auth0ID": "auth0|5ebc027e8a96a61a055b5491"}
+  ]
+}
